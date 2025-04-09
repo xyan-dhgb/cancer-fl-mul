@@ -42,7 +42,7 @@ class FederatedServer:
     
     def federated_averaging(self):
         """
-        Thực hiện federated averaging từ các client để cập nhật mô hình toàn cục
+        Thực hiện federated averaging (thuật toán FedAvg) từ các client để cập nhật mô hình toàn cục
         """
         print("Bắt đầu quá trình Federated Averaging...")
         
