@@ -1,3 +1,5 @@
+# This is the client used for Federated Learning
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
