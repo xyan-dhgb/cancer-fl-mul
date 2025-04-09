@@ -13,7 +13,7 @@ Sinh viên thực hiện:
 
 Ung thư là một trong những căn bệnh nguy hiểm nhất và là nguyên nhân gây tử vong hàng đầu trên thế giới. Theo Tổ chức Y tế Thế giới (WHO), đây là nguyên nhân tử vong đứng thứ hai toàn cầu, với khoảng 9,6 triệu ca tử vong vào năm 2018, tương đương cứ 6 người thì có 1 người tử vong vì ung thư. Tình hình ung thư tại Việt Nam đang ở mức báo động với số ca mắc và tử vong không ngừng gia tăng. Theo thống kê của GLOBOCAN (Global Cancer Observatory) năm 2022, Việt Nam ghi nhận 180.480 ca mắc mới và 120.184 ca tử vong do ung thư. Xét về tỷ lệ mắc mới, Việt Nam đứng thứ 20 tại châu Á và xếp thứ 101 trên toàn cầu, cho thấy gánh nặng bệnh tật ngày càng nghiêm trọng.
 
-Ở nam giới, các loại ung thư phổ biến nhất gồm ung thư phổi, tuyến tiền liệt, đại trực tràng, dạ dày và gan, trong khi ở nữ giới, ung thư vú, đại trực tràng, phổi, cổ tử cung và tuyến giáp là những loại thường gặp nhất. Trong đó, tại Việt Nam hiện nay là, ở nam giới: Ung thư gan chiếm tỷ lệ cao nhất (19,7%), tiếp theo là ung thư phổi (17,7%) và ung thư dạ dày (11%); ở nữ giới: Ung thư vú chiếm tỷ lệ cao nhất (28,9%), ung thư phổi (8,7%) và ung thư đại trực tràng (8,7%)).
+Ở nam giới, các loại ung thư phổ biến nhất gồm ung thư phổi, tuyến tiền liệt, đại trực tràng, dạ dày và gan, trong khi ở nữ giới, ung thư vú, đại trực tràng, phổi, cổ tử cung và tuyến giáp là những loại thường gặp nhất. Trong đó, tại Việt Nam hiện nay là, ở nam giới: Ung thư gan chiếm tỷ lệ cao nhất (19,7%), tiếp theo là ung thư phổi (17,7%) và ung thư dạ dày (11%); ở nữ giới: Ung thư vú chiếm tỷ lệ cao nhất (28,9%), ung thư phổi (8,7%) và ung thư đại trực tràng (8,7%).
 
 ![Thống kê ung thư](/asset/docs-img/cancer-statistic.png)
 
