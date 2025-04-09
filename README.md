@@ -4,6 +4,8 @@ Sinh viên thực hiện:
 - Đinh Huỳnh Gia Bảo – 22520101 (MMTT2022.1)
 - Trần Gia Bảo – 22520117 (MMTT2022.1)
 
+Cán bộ hướng dẫn: 
+- ThS. Nguyễn Khánh Thuật 
 
 Đây là đồ án chuyên ngành (NT114.P21 - VN(ĐA)) với mục đích triển khai một hệ thống học liên kết (Federated Learning) kết hợp với trí tuệ nhân tạo đa phương thức (Multimodal AI) cho bài toán chẩn đoán ung thư trong y học.
 
