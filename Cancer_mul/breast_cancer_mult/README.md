@@ -48,20 +48,20 @@ Bao gồm các trường dữ liệu như Refnum, BG, class, X, Y, Radius, Densi
 Phân phối của các lớp chẩn đoán (NORM, CIRC, SPIC, vv.)
 Phân phối mức độ nghiêm trọng (Normal, Benign, Malignant)
 
-![image1](/Cancer_mul/images/image.png-1)
+![image1](/Cancer_mul/images/image-1.png)
 
 **Biểu đồ trực quan hóa:**
 Phân phối mật độ vú (A, B, C/D)
 Mối quan hệ giữa lớp chẩn đoán và mức độ nghiêm trọng
 
-![image2](/Cancer_mul/images/image.png-2)
+![image2](/Cancer_mul/images/image-2.png)
 
 **Biểu đồ thể hiện mối quan hệ giữa classclass và mức độ nghiêm trọng**
 
-![image3](/Cancer_mul/images/image.png-3)
+![image3](/Cancer_mul/images/image-3.png)
 
 **Một số hình ảnh của dataset trước khi xử lý:**
 
-![image4](/Cancer_mul/images/image.png-4)
+![image4](/Cancer_mul/images/image-4.png)
 
 **Traning multimodal được trình bày trong link này:** https://drive.google.com/file/d/1MSQgC3hM3xF7qQRSXncufMzQRjdcETuO/view?usp=drive_link
