@@ -41,26 +41,26 @@ Bộ dữ liệu MIAS phân tích ảnh chụp vú (mammography). Bộ dữ li�
 
 **Thông tin từ dữ liệu CSV**
 Bao gồm các trường dữ liệu như Refnum, BG, class, X, Y, Radius, Density, Bi-rads, class_full, class_group 
-   ![alt text](images/bang_data_csv.png/)
+   ![alt text](/images/bang_data_csv.png)
 
 **Hai biểu đồ cột từ dữ liệu trong file csv:**
 Phân phối của các lớp chẩn đoán (NORM, CIRC, SPIC, vv.)
 Phân phối mức độ nghiêm trọng (Normal, Benign, Malignant)
 
-![alt text](images/bieu_do_phan_phoi_chuan_doan_do_nghiem_trong.png/)
+![alt text](/images/bieu_do_phan_phoi_chuan_doan_do_nghiem_trong.png)
 
 **Biểu đồ trực quan hóa:**
 Phân phối mật độ vú (A, B, C/D)
 Mối quan hệ giữa lớp chẩn đoán và mức độ nghiêm trọng
 
-![alt text](images/bieu_do_truc_quan_hoa.png/)
+![alt text](/images/bieu_do_truc_quan_hoa.png)
 
 **Biểu đồ thể hiện mối quan hệ giữa classclass và mức độ nghiêm trọng**
 
-![alt text](images/bieu_do_quan _he_classification.png)
+![alt text](/images/bieu_do_quan _he_classification.png)
 
 **Một số hình ảnh của dataset trước khi xử lý:**
 
-![alt text](images/hinh_anh_dataset.png/)
+![alt text](/images/hinh_anh_dataset.png)
 
 **Traning multimodal được trình bày trong link này:** https://drive.google.com/file/d/1MSQgC3hM3xF7qQRSXncufMzQRjdcETuO/view?usp=drive_link
