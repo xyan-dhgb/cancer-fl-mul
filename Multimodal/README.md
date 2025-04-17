@@ -57,7 +57,7 @@ Mối quan hệ giữa lớp chẩn đoán và mức độ nghiêm trọng
 
 **Biểu đồ thể hiện mối quan hệ giữa classclass và mức độ nghiêm trọng**
 
-![alt text](/images/bieu_do_quan _he_classification.png)
+![alt text](/images/bieu_do_quan_he_classification.png)
 
 **Một số hình ảnh của dataset trước khi xử lý:**
 
