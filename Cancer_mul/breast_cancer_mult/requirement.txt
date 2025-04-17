@@ -1,25 +1,10 @@
-Thư viện Python tiêu chuẩn
-os - Quản lý đường dẫn và thao tác với hệ thống tệp.
-cv2 - (OpenCV) Xử lý ảnh.
-numpy - Xử lý mảng số học.
-matplotlib.pyplot - Vẽ biểu đồ và trực quan hóa dữ liệu.
-seaborn - Trực quan hóa dữ liệu nâng cao.
-pandas - Xử lý và phân tích dữ liệu dạng bảng.
-Thư viện TensorFlow/Keras
-tensorflow - Xây dựng và huấn luyện mô hình học sâu.
-tensorflow.keras.models - Tạo mô hình học sâu.
-tensorflow.keras.layers - Các lớp (layers) trong mô hình học sâu.
-tensorflow.keras.preprocessing.image.ImageDataGenerator - Tăng cường dữ liệu ảnh.
-tensorflow.keras.applications.ResNet50 - Mô hình ResNet50 được huấn luyện trước.
-tensorflow.keras.utils.to_categorical - Chuyển đổi nhãn thành dạng one-hot encoding.
-Thư viện Scikit-learn
-sklearn.model_selection.train_test_split - Chia dữ liệu thành tập huấn luyện và kiểm tra.
-sklearn.preprocessing.StandardScaler - Chuẩn hóa dữ liệu.
-sklearn.metrics - Tính toán các chỉ số đánh giá mô hình (classification report, confusion matrix, ROC curve, AUC).
-sklearn.base.BaseEstimator, sklearn.base.ClassifierMixin - Tạo wrapper cho mô hình.
-sklearn.metrics.accuracy_score - Tính độ chính xác của mô hình.
-Thư viện ELI5
-eli5.sklearn.PermutationImportance - Phân tích tầm quan trọng của đặc trưng.
-eli5 - Hiển thị tầm quan trọng của đặc trưng.
-Thư viện PIL
-PIL.Image - Xử lý ảnh (thư viện Pillow).
+torch == 2.6.0+cu124
+torchvision == 0.21.0+cu124
+pandas == 2.2.2
+scikit-learn == 1.6.1
+matplotlib == 3.10.0
+seaborn == 0.13.2
+Pillow == 11.1.0
+tensorflow == 2.18.0
+keras == 3.8.0
+eli5 == 0.15.0
