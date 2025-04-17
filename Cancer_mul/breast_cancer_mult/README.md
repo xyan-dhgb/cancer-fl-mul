@@ -41,7 +41,7 @@ Bộ dữ liệu MIAS phân tích ảnh chụp vú (mammography). Bộ dữ li�
 
 **Thông tin từ dữ liệu CSV**
 Bao gồm các trường dữ liệu như Refnum, BG, class, X, Y, Radius, Density, Bi-rads, class_full, class_group 
-   ![alt text](image.png)
+   ![alt text](Cancer_mul/images/image-1.png)
 
 **Hai biểu đồ cột từ dữ liệu trong file csv:**
 Phân phối của các lớp chẩn đoán (NORM, CIRC, SPIC, vv.)
