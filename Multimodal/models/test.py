@@ -25,15 +25,6 @@ from sklearn.metrics import classification_report, confusion_matrix, roc_curve, 
 
 
 # %%
-!pip install gdown
-
-# %%
-!gdown 1MvbaK4KXWyLRJAQ8YuJQ8vrlK9bBVScA
-
-# %%
-!unzip archive.zip
-
-# %%
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
@@ -547,9 +538,6 @@ for class_name, prob in diagnosis_result['probabilities'].items():
 
 # %% [markdown]
 # #Part 7: Phân tích tầm quan trọng đặc trưng của bảng
-
-# %%
-!pip install eli5
 
 # %%
 """
