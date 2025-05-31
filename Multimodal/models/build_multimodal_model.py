@@ -28,6 +28,7 @@ def build_multimodal_model(tabular_shape, image_shape, num_classes=3):
     x_img = Model(inputs=image_input, outputs=x_img)
 
     # Combine the branches
+    # Late fusion
     combined = concatenate([x_tab.output, x_img.output])
 
     # Final layers
