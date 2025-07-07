@@ -1,18 +1,3 @@
-def load_image(image_path, target_size=(224, 224)):
-    """
-    Load and preprocess an X-ray image
-    """
-    img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-    if img is None:
-        # Placeholder for missing images
-        img = np.zeros(target_size)
-    else:
-        img = cv2.resize(img, target_size)
-
-    # Normalize the image
-    img = img / 255.0
-
-    # Add channel dimension
-    img = np.expand_dims(img, axis=-1)
-
-    return img
+version https://git-lfs.github.com/spec/v1
+oid sha256:6463643e07044973fb2c29baf370e61b7b3883f551b27d6ab5b58d3eba93fd75
+size 444

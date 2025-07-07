@@ -1,7 +1,3 @@
-def load_csv_data(file_path):
-    """
-    Load the CSV data and display basic information
-    """
-    print("Loading CSV data...")
-    df = pd.read_csv(file_path)
-    return df
+version https://git-lfs.github.com/spec/v1
+oid sha256:b695ed238c1cfb44af74f94fde4238faa2f8dadf42857de317615a398eddf1a9
+size 176
