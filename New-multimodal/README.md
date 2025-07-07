@@ -79,4 +79,4 @@ Xây dựng mô hình đa nhánh (CNN + MLP)
 
 Đánh giá độ chính xác (accuracy, ROC AUC, v.v.)
 
- Link notebook demo: (bạn có thể cập nhật link Google Colab hoặc Drive nếu có)
+ Link notebook demo: https://colab.research.google.com/drive/1jKeVJYFgKLOR42qioSRUubJ63x50canl?usp=sharing

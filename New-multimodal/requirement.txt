@@ -7,4 +7,3 @@ seaborn == 0.13.2
 Pillow == 11.1.0
 tensorflow == 2.18.0
 keras == 3.8.0
-eli5 == 0.15.0
